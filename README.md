@@ -3,4 +3,3 @@
 ## 📱 Mobile App Demo
 ![App Demo](https://github.com/redis-developer/redisafe/blob/main/redisafeapp.gif?raw=true)
 
-## [marketplace.json](https://github.com/redis-developer/redisafe/blob/main/marketplace.json)
