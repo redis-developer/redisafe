@@ -1,30 +1,30 @@
 {
-  "app_name": "RediSafe", 
-  "description": "A modern app that allows you to monitor your health data offline and prevent contracting the COVID-19 virus powered by React, Firebase and RedisJSON",
+  "app_name": "RediSafe",
+  "description": "A modern app that allows you to monitor your health data offline and prevent contracting the COVID-19 virus powered by React, Firebase and Redis JSON",
   "type": "Full App",
   "rank": 156,
-  "contributed_by": "Community", 
-  "repo_url": "https://github.com/redis-developer/redisafe", 
+  "contributed_by": "Community",
+  "repo_url": "https://github.com/redis-developer/redisafe",
   "preview_image_url": "https://raw.githubusercontent.com/redis-developer/redisafe/master/images/app_preview_image.png",
-  "download_url": "https://github.com/redis-developer/redisafe/archive/refs/heads/main.zip", 
+  "download_url": "https://github.com/redis-developer/redisafe/archive/refs/heads/main.zip",
   "quick_deploy": "false",
     "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redisafe.git" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redisafe.git"
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redisafe.git" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redisafe.git"
         }
     ],
-  
-  "language": ["React"], 
+
+  "language": ["React"],
   "redis_commands": [
-  ], 
-  "redis_features": [], 
-  "redis_modules": ["RedisJSON"],
-  "app_image_urls": [], 
+  ],
+  "redis_use_cases": [],
+  "redis_features": ["JSON"],
+  "app_image_urls": [],
   "youtube_url": "https://www.youtube.com/watch?v=ErVquMAOSXw",
-  "special_tags": ["Hackathon"], 
-  "verticals": ["Healthcare"], 
-  "markdown": "https://raw.githubusercontent.com/redis-developer/redisafe/main/README.md" 
+  "special_tags": ["Hackathon"],
+  "verticals": ["Healthcare"],
+  "markdown": "https://raw.githubusercontent.com/redis-developer/redisafe/main/README.md"
 }
